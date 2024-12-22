@@ -1,0 +1,101 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vspcc
+*.vspx
+*.vspf
+*.vspn
+*.user
+*.aps
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.sdf
+*.opendb
+*.opensdf
+
+# Visual Studio-specific files
+.vs/
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.assets.json
+
+# Auto-generated files
+Generated_Code/
+ServiceFabricBackup/
+ServiceFabricGenerated/
+ServiceFabricBuildOutputs/
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+*.obj
+*.log
+*.tlog
+
+# Resharper/JetBrains Rider files
+.idea/
+*.sln.DotSettings.user
+
+# Publish outputs
+publish/
+out/
+
+# Logs
+*.log
+*.log.*
+*.svclog
+
+# User-specific files
+*.user
+*.rsuser
+*.userosscache
+*.suo
+
+# IDE configuration files
+*.csproj.user
+*.dbmdl
+*.jfm
+*.lock.json
+
+# Secrets and credentials
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Entity Framework migration history
+Migrations/
+
+# Node.js dependencies (if using npm or yarn)
+node_modules/
+
+# Coverage files
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+
+# Others
+.env
+*.pid.lock
+*.pid
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
